@@ -16,6 +16,7 @@ Each solution focuses on understanding logic clearly rather than using shortcuts
 |---|---------------|-----------|-----------|--------|
 | 1 | Two Sum | Java | Brute Force using nested loops | ✅ Accepted |
 | 2 | Longest Substring Without Repeating Characters | Java | String + Index manipulation | ✅ Accepted |
+| 3 | Median of Two Sorted Arrays | Java | Merging+Sorting Arrays, Finding Median of Combined Array | ✅ Accepted|
 
 ---
 
