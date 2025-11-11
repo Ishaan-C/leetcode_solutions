@@ -26,7 +26,7 @@ class Solution {
                     if (down) j += 2 * (numRows - i);
                     else j += 2 * (i - 1);
                     down = !down;
-                }  //middle rows show this pattern- starting element, element at 2n-2i distance and then element at 2i-2 distance
+                }  //middle rows show this pattern- starting element -> element at 2n-2i distance -> element at 2i-2 distance and then again -> element at 2n-2i distance -> element at 2i-2 distance
             }
         }
 
