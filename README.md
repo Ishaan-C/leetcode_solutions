@@ -19,6 +19,7 @@ Each solution focuses on understanding logic clearly rather than using shortcuts
 | 3 | Median of Two Sorted Arrays | Java | Merging+Sorting Arrays, Finding Median of Combined Array | ✅ Accepted |
 | 4 | Palindrome Number | Java | Forming reversed number and comparing | ✅ Accepted |
 | 5 | ZigZag Conversion | Java | Identifying the pattern in each row and adjusting for special cases in first and last row | ✅ Accepted |
+| 6 | Roman To Integer Conversion | Python | Comparing adjacent values and then adding or subtracting | ✅ Accepted |
 
 ---
 
