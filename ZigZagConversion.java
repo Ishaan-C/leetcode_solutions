@@ -1,4 +1,4 @@
-class Solution {
+class ZigZag {
     public String convert(String s, int numRows) {
         String str = "";  // to store final result
 
