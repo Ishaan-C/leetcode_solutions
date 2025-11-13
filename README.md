@@ -21,6 +21,7 @@ Each solution focuses on understanding logic clearly rather than using shortcuts
 | 5 | ZigZag Conversion | Java | Identifying the pattern in each row and adjusting for special cases in first and last row | ✅ Accepted |
 | 6 | Roman To Integer Conversion | Python | Comparing adjacent values and then adding or subtracting | ✅ Accepted |
 | 7 | Longest Common Prefix | Java | Comparing the characters of the first string with other strings | ✅ Accepted |
+| 8 | Valid Parenthesis | Python | Storing immediate closing bracket in an array and comparing | ✅ Accepted |
 
 ---
 
