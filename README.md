@@ -23,6 +23,7 @@ Each solution focuses on understanding logic clearly rather than using shortcuts
 | 7 | Longest Common Prefix | Java | Comparing the characters of the first string with other strings | ✅ Accepted |
 | 8 | Valid Parenthesis | Python | Storing immediate closing bracket in an array and comparing | ✅ Accepted |
 | 9 | Remove Duplicates from a Sorted Array | Python | Identifying unique elements and moving them to the front of the array | ✅ Accepted |
+| 10 | Remove Element | Python | Similar logic as Problem 9 in this repository or Problem 26 on LeetCode. Identifying the elements not equal to val and moving them to the front of the array. RUNTIME- BEATS 100% | ✅ Accepted |
 
 ---
 
