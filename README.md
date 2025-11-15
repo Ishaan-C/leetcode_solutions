@@ -22,6 +22,7 @@ Each solution focuses on understanding logic clearly rather than using shortcuts
 | 6 | Roman To Integer Conversion | Python | Comparing adjacent values and then adding or subtracting | ✅ Accepted |
 | 7 | Longest Common Prefix | Java | Comparing the characters of the first string with other strings | ✅ Accepted |
 | 8 | Valid Parenthesis | Python | Storing immediate closing bracket in an array and comparing | ✅ Accepted |
+| 9 | Remove Duplicates from a Sorted Array | Python | Identifying unique elements and moving them to the front of the array | ✅ Accepted |
 
 ---
 
