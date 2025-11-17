@@ -24,7 +24,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 9 | Remove Duplicates from a Sorted Array | Python | Identifying unique elements and moving them to the front of the array | ✅ Accepted |
 | 10 | Remove Element | Python | Similar logic as Problem 9 in this repository or Problem 26 on LeetCode. Identifying the elements not equal to val and moving them to the front of the array. RUNTIME- BEATS 100% | ✅ Accepted |
 | 11 | Index of First Occurrence in a String | Java | Using Java's inbuilt .indexOf function. RUNTIME- BEATS 100% | ✅ Accepted |
-| 12 |Search Insert Position | Python | Using Binary Sort. RUNTIME- BEATS 100% | ✅ Accepted |
+| 12 | Search Insert Position | Python | Using Binary Sort. RUNTIME- BEATS 100% | ✅ Accepted |
+| 13 | Length of Last Word | Python | Removing trailing spaces and counting using loops. RUNTIME- BEATS 100% | ✅ Accepted |
 
 ---
 
