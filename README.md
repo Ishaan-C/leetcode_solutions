@@ -26,7 +26,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 11 | Index of First Occurrence in a String | Java | Using Java's inbuilt .indexOf function. RUNTIME- BEATS 100% | ✅ Accepted |
 | 12 | Search Insert Position | Python | Using Binary Sort. RUNTIME- BEATS 100% | ✅ Accepted |
 | 13 | Length of Last Word | Python | Removing trailing spaces and counting using loops. RUNTIME- BEATS 100% | ✅ Accepted |
-| 14 | Plus One | Java | Handle edge case first- all 9s. Then, handle general cases by carrying 1. | ✅ Accepted |
+| 14 | Plus One | Java | Handle edge case first- all 9s. Then, handle general cases by carrying 1. RUNTIME- BEATS 100% | ✅ Accepted |
+| 15 | Add Binary | Python | Convert both strings to the same length. Use binary rules for addition. Pass the carry forward. | ✅ Accepted |
 
 ---
 
