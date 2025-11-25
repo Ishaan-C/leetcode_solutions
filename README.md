@@ -28,6 +28,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 13 | Length of Last Word | Python | Removing trailing spaces and counting using loops. RUNTIME- BEATS 100% | ✅ Accepted |
 | 14 | Plus One | Java | Handle edge case first- all 9s. Then, handle general cases by carrying 1. RUNTIME- BEATS 100% | ✅ Accepted |
 | 15 | Add Binary | Python | Convert both strings to the same length. Use binary rules for addition. Pass the carry forward. | ✅ Accepted |
+| 16 | Sqrt(x) | Python | Using binary search to narrow down the range where the square root of x might be. RUNTIME- BEATS 100%. | ✅ Accepted |
 
 ---
 
