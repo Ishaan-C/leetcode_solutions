@@ -6,6 +6,8 @@ class Solution:
         Therefore, the logic is simply to iterate through all possible values of y (from 0 to n//2 (because y handles 2 steps)) and calculate the corresponding x value.
         For each pair (x,y) that satisfies the equation, we can set up a list with either element 'a' (for 1-step) or 'b' (for 2-step) and calculate the number of unique permutations of this list.
         The number of unique permutations is simply the factorial of the length of the list divided by the factorial of the counts of each unique element. 
+        OR in other words, it can be calculated using the formula:
+        total_permutations = factorial(x + y) / (factorial(x) * factorial(y)) directly.
         The above described method is a basic mathematical formula for permutations when there are repeating elements.
         Finally, we sum up all the unique permutations for all possible (x,y) pairs to get the final answer.
 
