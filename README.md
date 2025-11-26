@@ -29,6 +29,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 14 | [Plus One](https://leetcode.com/problems/plus-one/) | Java | Handle edge case first- all 9s. Then, handle general cases by carrying 1 | ✅ Accepted | Beats 100% (runtime) |
 | 15 | [Add Binary](https://leetcode.com/problems/add-binary/) | Python | Convert both strings to the same length. Use binary rules for addition. Pass the carry forward | ✅ Accepted | – |
 | 16 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python | Using binary search to narrow down the range where the square root of x might be | ✅ Accepted | Beats 100% (runtime) |
+| 17 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python | Using combinatorics: for each possible count of 2-steps y, compute x = n − 2y and sum the permutations (x+y)! / (x!·y!) | ✅ Accepted | Beats 100% (runtime) |
+
 
 
 
