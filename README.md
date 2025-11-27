@@ -31,6 +31,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 16 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python | Using binary search to narrow down the range where the square root of x might be | ✅ Accepted | Beats 100% (runtime) |
 | 17 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python | Using combinatorics: for each possible count of 2-steps y, compute x = n − 2y and sum the permutations (x+y)! / (x!·y!) | ✅ Accepted | Beats 100% (runtime) |
 | 18 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | Copy nums2 into nums1 and sort the array using `Arrays.sort` | ✅ Accepted | - |
+| 19 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | Track the minimum price so far and update the maximum profit in a single pass | ✅ Accepted | - |
+
 
 
 
