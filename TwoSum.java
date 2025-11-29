@@ -1,4 +1,4 @@
-class Solution {
+class Solution_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int m=0,n=0;
         boolean fl=false;

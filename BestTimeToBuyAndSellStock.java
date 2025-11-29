@@ -1,4 +1,4 @@
-class Solution {
+class Solution_BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
 
         //NEW ALGORITHM-

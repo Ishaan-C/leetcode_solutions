@@ -33,6 +33,9 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 18 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | Copy nums2 into nums1 and sort the array using `Arrays.sort` | ✅ Accepted | - |
 | 19 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | Track the minimum price so far and update the maximum profit in a single pass | ✅ Accepted | - |
 | 20 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Java | Filter the string to only alphanumeric characters, convert to lowercase, and compare with its reverse | ✅ Accepted | - |
+| 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | Java | Sort the array, scan consecutive elements to count frequencies (handle last run separately), return element with max count | ✅ Accepted | - |
+
+
 
 
 
