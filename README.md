@@ -36,6 +36,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | Java | Sort the array, scan consecutive elements to count frequencies (handle last run separately), return element with max count | ✅ Accepted | - |
 | 22 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Java | Treat string as base-26 (`A=1…Z=26`), multiply each char by 26^(position) from left, sum all | ✅ Accepted | - |
 | 23 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Python | Convert number to Excel-style base-26; handle `0 → Z` case using `//26 - 1`; build in reverse | ✅ Accepted | Beats 100% (runtime) |
+| 24 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python | Sort array in-place and check adjacent elements for duplicates; return `True` if any pair matches, else `False` | ✅ Accepted | Beats 95% (memory) |
+
 
 
 

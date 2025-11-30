@@ -25,5 +25,7 @@ class Solution:
                 columnNumber//=26
 
         return res[::-1]
+    
+    #RUNTIME- Beats 100%
 
 
