@@ -35,6 +35,8 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 20 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Java | Filter the string to only alphanumeric characters, convert to lowercase, and compare with its reverse | ✅ Accepted | - |
 | 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | Java | Sort the array, scan consecutive elements to count frequencies (handle last run separately), return element with max count | ✅ Accepted | - |
 | 22 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Java | Treat string as base-26 (`A=1…Z=26`), multiply each char by 26^(position) from left, sum all | ✅ Accepted | - |
+| 23 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Python | Convert number to Excel-style base-26; handle `0 → Z` case using `//26 - 1`; build in reverse | ✅ Accepted | Beats 100% (runtime) |
+
 
 
 
