@@ -37,6 +37,9 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 22 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Java | Treat string as base-26 (`A=1…Z=26`), multiply each char by 26^(position) from left, sum all | ✅ Accepted | - |
 | 23 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Python | Convert number to Excel-style base-26; handle `0 → Z` case using `//26 - 1`; build in reverse | ✅ Accepted | Beats 100% (runtime) |
 | 24 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python | Sort array in-place and check adjacent elements for duplicates; return `True` if any pair matches, else `False` | ✅ Accepted | Beats 95% (memory) |
+| 25 | [Add Digits](https://leetcode.com/problems/add-digits/) | Java | Obtain the sum of the digits and pass this sum recursively to the same method until the sum is a single digit number | ✅ Accepted | Beats 75% (runtime) |
+| 26 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Java | Store original number to sum other variable. Extract each digit and check if it divides the number | ✅ Accepted | Beats 90% (runtime) |
+| 27 | [Reverse Words in a String (III)](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Java | Extract words individually and reverse them adding them to a new string in correct order | ✅ Accepted | - |
 
 
 
