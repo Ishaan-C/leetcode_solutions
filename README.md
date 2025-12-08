@@ -40,6 +40,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 25 | [Add Digits](https://leetcode.com/problems/add-digits/) | Java | Obtain the sum of the digits and pass this sum recursively to the same method until the sum is a single digit number | ✅ Accepted | Beats 75% (runtime) |
 | 26 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Java | Store original number to sum other variable. Extract each digit and check if it divides the number | ✅ Accepted | Beats 90% (runtime) |
 | 27 | [Reverse Words in a String (III)](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Java | Extract words individually and reverse them adding them to a new string in correct order | ✅ Accepted | - |
+| 28 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Java | Swap equidistant letters from the beginning and the end | ✅ Accepted | Beats 100% (runtime) and Beats 73% (memory) |
 
 
 
