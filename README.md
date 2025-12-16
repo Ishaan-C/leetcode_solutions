@@ -41,6 +41,7 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 26 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | Java | Store original number to sum other variable. Extract each digit and check if it divides the number | ✅ Accepted | Beats 90% (runtime) |
 | 27 | [Reverse Words in a String (III)](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Java | Extract words individually and reverse them adding them to a new string in correct order | ✅ Accepted | - |
 | 28 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Java | Swap equidistant letters from the beginning and the end | ✅ Accepted | Beats 100% (runtime) and Beats 73% (memory) |
+| 29 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Java | Swap 0 and non-zero elements only when 0 is to the left of the non-zero element in order to "push" the 0s to the end | ✅ Accepted | - |
 
 
 
