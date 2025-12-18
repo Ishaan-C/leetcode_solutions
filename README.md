@@ -42,6 +42,10 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 | 27 | [Reverse Words in a String (III)](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Java | Extract words individually and reverse them adding them to a new string in correct order | ✅ Accepted | - |
 | 28 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Java | Swap equidistant letters from the beginning and the end | ✅ Accepted | Beats 100% (runtime) and Beats 73% (memory) |
 | 29 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Java | Swap 0 and non-zero elements only when 0 is to the left of the non-zero element in order to "push" the 0s to the end | ✅ Accepted | - |
+| 30 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Python | Reverse the absolute value and then generate the required output after checking the range and sign of the number | ✅ Accepted | Beats 95%(runtime) and Beats 85%(memory) |
+| 31 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Python | Parse the string by handling whitespace, optional sign, and digits; skip leading zeros, then handle integer overflow and apply the sign | ✅ Accepted | Beats 100% (memory) |
+
+
 
 
 
